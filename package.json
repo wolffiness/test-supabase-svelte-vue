@@ -1,0 +1,19 @@
+{
+  "name": "test-supabase-svelte-vue",
+  "version": "1.0.0",
+  "description": "This is a tester to feel out how Svelte and Vue compare to each other with SupaBase as BaaS. Not a serious service so feel free to ignore this repo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolffiness/test-supabase-svelte-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolffiness/test-supabase-svelte-vue/issues"
+  },
+  "homepage": "https://github.com/wolffiness/test-supabase-svelte-vue#readme"
+}
