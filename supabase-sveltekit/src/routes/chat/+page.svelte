@@ -94,6 +94,7 @@
 	form {
 		width: 20em;
 		display: flex;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
 	}
 
 	form > input {
